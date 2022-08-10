@@ -12,6 +12,7 @@ https://api.sap.com/api/lead/overview
 sap-lead-sql には、sqlの設定ファイルとして以下のsqlファイルが含まれています。  
 
 * sap-lead-sql-lead-collection-data.sql（SAP リード  - リードデータ）  
+* sap-lead-sql-lead-item-collection-data.sql（SAP リード  - リード明細データ）  
 
 ## MySQLのセットアップ / Kubernetesの設定 / SQLテーブルの作成方法
 MySQLのセットアップ / Kubernetesの設定 / 具体的なSQLテーブルの作成方法、については、[mysql-kube](https://github.com/latonaio/mysql-kube)を参照ください。
